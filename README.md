@@ -1,4 +1,4 @@
-#Bike Sharing Demand Prediction - ANN
+Bike Sharing Demand Prediction - ANN
 
 🚲 Bike Sharing Demand Prediction using an Artificial Neural Network (ANN) with a Tkinter GUI.
 
